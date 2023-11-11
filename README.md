@@ -1,4 +1,4 @@
-<h1>👋Hello World, I'm Kalypso!</h2>
+<h1>👋Hello World</h2>
 
 <h2>🚀I'm Kalypso and I'm passionate about programming</h2>
 <img alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmswbWQyYXMzeTF2Y2pvM202NnFkbmlxMG5vMmhnYXgwZ3o0M2M2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
@@ -33,17 +33,78 @@ const kalypso = {
 }
 ```
 
-
 <h2>Current Stack & Tools</h2>
-
-
-<img width="50%" align="center" alt="Coder wondering why his code works or not" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
+  <div display="flex" flex-direction="column">
+      <div class="herramientas">
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoVisualStudio.png" alt="Logo de Visual Studio Code">
+              <figcaption>Visual Studio Code</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoZoom.png" alt="Logo de Zoom">
+              <figcaption>Zoom</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoGoogle.png" alt="Logo de Google">
+              <figcaption>Google</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoFIGMA.png" alt="Logo de Figma">
+              <figcaption>Figma</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoTrello.png" alt="Logo de Trello">
+              <figcaption>Trello</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoDiscord.png" alt="Logo de Discord">
+              <figcaption>Discord</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoCloudFlare.png" alt="Logo de Cloudfare pages">
+              <figcaption>Cloudfare Pages</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoGithub.png" alt="Logo de Git">
+              <figcaption>Git</figcaption>
+          </figure>
+          <figure class="box_herramientas">
+              <img src="./src/assets/img/logoGithub.png" alt="Logo de Github">
+              <figcaption>Git Hub</figcaption>
+          </figure>
+      </div>
+      <div class="lenguajes">
+          <figure class="box_lenguajes">
+              <img src="./src/assets/img/logoHtml.png" alt="Logo de HTML">
+              <figcaption>HTML</figcaption>
+          </figure>
+          <figure class="box_lenguajes">
+              <img src="./src/assets/img/logoCss.png" alt="Logo de CSS">
+              <figcaption>CSS</figcaption>
+          </figure>
+          <figure class="box_lenguajes">
+              <img src="./src/assets/img/logoJAVASCRIPT.png" alt="Logo de JAVASCRIPT">
+              <figcaption>JAVASCRIPT</figcaption>
+          </figure>
+      </div>
+  </div>
+  <img width="50%" align="center" alt="Coder wondering why his code works or not" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
 
 <h2>Contact</h2>
 
 <h2>Github stats</h2>
 
 <h2>Acknowledgements</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bootstrap,css,git,html,js" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma" />
+  </a>
+</p>
+
 
 <!--
 **Kalypso89/Kalypso89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
