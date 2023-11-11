@@ -29,10 +29,11 @@ const kalypso = {
                   hobbies: ["Singing", "Dancing", "Acting", "Cooking", "Travelling", "Working out"],
                   favouritePlaces: ["La Virgen del Mar", "Mont Saint-Michel", "Saint-Malo", "Monte Naranco"],
                     },
+  myStrengths: ["Curiosity", "Passion", "Initiative", "Motivation", "Sympathy", "Teamwork],
   myGoal: "Developing applications that are useful, accessible, and inclusive in the fields of psychology and education"
 }
 ```
-
+I stand out for having initiative, high doses of motivation and curiosity to learn, and a strong desire to work in a team and become a human resource that brings personal, ethical and professional value to the company that decides to bet on me.
 <h2>Current Stack & Tools</h2>
   <div display="flex" flex-direction="column">
       <div class="herramientas">
@@ -88,20 +89,29 @@ const kalypso = {
           </figure>
       </div>
   </div>
+  
   <img width="50%" align="center" alt="Coder wondering why his code works or not" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
 
 <h2>Contact</h2>
-
+        <section id="redes_contacto_container">
+            <section id="redes_contacto">
+            <div class="redes_contacto_icon"><a href="https://www.youtube.com"><img src="./src/assets/img/youtube.png" alt="Youtube de la empresa"></a></div>
+            <div class="redes_contacto_icon"><a href="https://www.instagram.com"><img src="./src/assets/img/instagram.png" alt="Instagram de la empresa"></a></div>   
+            <div class="redes_contacto_icon"><a href="https://www.facebook.com"><img src="./src/assets/img/facebook.png" alt="Facebook de la empresa"></a></div>
+            <div class="redes_contacto_icon"><a href="https://twitter.com"><img src="./src/assets/img/twitter.png" alt="Twitter de la empresa"></a></div>
+            <div class="redes_contacto_icon"><a href="https://www.linkedin.com"><img src="./src/assets/img/linkedin.png" alt="LinkedIn de la empresa"> </a></div>
+            <div class="redes_contacto_icon"><a href="mailto:antunezangela89@gmail.com"><img src="./src/assets/img/gmail.png" alt="Envía un correo a la empresa"></a></div>
+        </section>
 <h2>Github stats</h2>
 
 <h2>Acknowledgements</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bootstrap,css,git,html,js" />
+  <a href="https://factoriaf5.org/">
+    <img src="">
   </a>
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma" />
+  <a href="https://femcoders.factoriaf5.org/">
+    <img src="">
   </a>
 </p>
 
@@ -120,5 +130,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-A few months ago, I decided to take a new career direction. Specifically, I am training as a full-stack developer and I am also gaining knowledge in User Experience design, to develop applications that are useful, accessible, and inclusive in the fields of psychology and education. I stand out for having initiative, high doses of motivation and curiosity to learn, and a strong desire to work in a team and become a human resource that brings personal, ethical and professional value to the company that decides to bet on me.
+ 
 -->
