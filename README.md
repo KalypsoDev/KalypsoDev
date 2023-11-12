@@ -12,7 +12,9 @@
 ```javascript
 const kalypso = {
   realName: "Ángela",
-  myMotto: "Just make it happen!",
+  myMottos: ["Curiosity didn't kill the cat: it helped it explore, learn and grow",
+            "Every day is an adventure",
+            "Just make it happen!"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
   previousStudies: {
@@ -27,7 +29,8 @@ const kalypso = {
                         organization: "Factoría F5",
                         sponsor: "Google.org"
                     },
-  workExperience: ["Teacher in various socio-educational fields", "Project manager at the AINDACE Foundation (brain damage)"],
+  workExperience: ["Teacher in various socio-educational fields",
+                  "Project manager at the AINDACE Foundation (brain damage)"],
   freeTime: {
                   languages: ["English", "French", "Portuguese"],
                   myDogs: ["Rocky", "Sira"],
