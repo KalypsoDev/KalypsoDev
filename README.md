@@ -55,17 +55,17 @@ const kalypso = {
   </a>
 </p>
 <p align="center">
-    <img src="./logoTrello.png" alt="Trello" width="40px">  
-    <img src="./logoZoom.png" alt="Zoom" width="40px">
-    <img src="./logoGoogle.png" alt="Google" width="40px">
+    <img src="./logoTrello.png" alt="Trello" height="48px">&nbsp  
+    <img src="./logoZoom.png" alt="Zoom" height="48px">&nbsp
+    <img src="./logoGoogle.png" alt="Google" height="48px">
 </p>
 <p align="center">
   <img width="30%" align="center" alt="Coder wondering why his code works or not" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
 </p>
 <h2  align="center">📩Contact me</h2>
   <p align="center">
-    <a href="mailto:antunezangela89@gmail.com"><img src="./logo_gmail.png" alt="Send me an email" width="80px"></a>
-    <a href="https://www.linkedin.com/in/%C3%A1ngela-ant%C3%BAnez-s%C3%A1nchez-458a8196/"><img src="./logo_linkedin.png" alt="My LinkedIn" width="80px"></a>
+    <a href="mailto:antunezangela89@gmail.com"><img src="./logo_gmail.png" alt="Send me an email" height="60px"></a>
+    <a href="https://www.linkedin.com/in/%C3%A1ngela-ant%C3%BAnez-s%C3%A1nchez-458a8196/"><img src="./logo_linkedin.png" alt="My LinkedIn" height="60px"></a>
   </p>
 
 <h2 align="center">📈Github stats</h2>
@@ -79,24 +79,12 @@ const kalypso = {
 
 
 <h2 align="center">🙏Acknowledgements</h2>
-<p align="center">
-  <a href="https://factoriaf5.org/">
-    <img src="./otrologo_f5.png" alt="Factoría F5" width="15%">
-  </a>
-</p>
-<p align="center">
-    <a href="https://femcoders.factoriaf5.org/" alt="Fem Coders" width="10px">
-    <img src="./femCoders.png">
-  </a>
-</p>
-<p align="center">
-  <a href="https://giphy.com/" alt="Giphy" width="60%">
-    <img src="./giphy.png">
-  </a>
-  <a href="https://skillicons.dev/" alt="SkillIcons" width="50%">
-    <img src="./SkillIcons.png">
-  </a>
-</p>
+<div align="center">
+  <a href="https://factoriaf5.org/"><img src="./otrologo_f5.png" alt="Factoría F5" height="60px"></a>&nbsp
+  <a href="https://femcoders.factoriaf5.org/"><img src="./femCoders.png" alt="Fem Coders" height="60px"></a>&nbsp
+  <a href="https://giphy.com/"><img src="./giphy.png" alt="Giphy" height="60px"></a>&nbsp
+  <a href="https://skillicons.dev/"><img src="./SkillIcons.png" alt="SkillIcons" height="60px"></a>&nbsp
+</div>
 
 
 <!--
