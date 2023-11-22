@@ -14,7 +14,8 @@ const kalypso = {
   realName: "Ángela",
   myMottos: ["Curiosity didn't kill the cat: it helped it explore, learn and grow",
             "Every day is an adventure",
-            "Just make it happen!"],
+            "Just make it happen!",
+            "Life-building"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
   previousStudies: {
