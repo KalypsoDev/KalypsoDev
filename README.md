@@ -47,7 +47,12 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,py,mysql,astro,markdown" alt="html, css, sass, js, python, mysql, astro, markdown">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js" alt="HTML, CSS, SASS, Tailwind, Bootstrap, JavaScript">
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,mysql,react,astro,markdown" alt="Python, PHP, MySQL, React, Astro, Markdown">
   </a>
 </p>
 <p align="center">
