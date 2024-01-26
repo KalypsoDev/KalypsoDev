@@ -15,7 +15,8 @@ const kalypso = {
   myMottos: ["Curiosity didn't kill the cat: it helped it explore, learn and grow",
             "Every day is an adventure",
             "Just make it happen!",
-            "Life-building"],
+            "Life-building",
+            "Let your emotions be your friends, not your enemies"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
   previousStudies: {
