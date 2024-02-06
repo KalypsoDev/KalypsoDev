@@ -59,7 +59,7 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,cloudflare,discord" alt="figma, vscode, git, github, cloudflare, discord">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,cloudflare,vercel,discord" alt="Figma, Visual Studio Code, Git, Github, Cloudflare, Vercel, Discord">
   </a>
 </p>
 <p align="center">
