@@ -84,7 +84,7 @@ const kalypso = {
 
 ![Kalypso's Stats](https://github-readme-stats.vercel.app/api?username=Kalypso89&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Kalypso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalypso89&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalypso89&theme=vision_friendly_dark)
 
 <h2 align="center">🙏Acknowledgements</h2>
 <div align="center">
