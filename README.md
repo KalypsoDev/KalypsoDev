@@ -16,6 +16,7 @@ const kalypso = {
             "Every day is an adventure",
             "Just make it happen!",
             "Life-building",
+            "Choose wisely your fights",
             "Let your emotions be your friends, not your enemies"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
