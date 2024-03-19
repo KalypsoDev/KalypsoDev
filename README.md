@@ -74,7 +74,7 @@ const kalypso = {
 <h2  align="center">📩Contact me</h2>
   <p align="center">
     <a href="mailto:antunezangela89@gmail.com"><img src="./logo_gmail.png" alt="Send me an email" height="60px"></a>
-    <a href="https://www.linkedin.com/in/%C3%A1ngela-ant%C3%BAnez-s%C3%A1nchez-458a8196/"><img src="./logo_linkedin.png" alt="My LinkedIn" height="60px"></a>
+    <a href="www.linkedin.com/in/angela-antunez-sanchez"><img src="./logo_linkedin.png" alt="My LinkedIn" height="60px"></a>
   </p>
 
 <h2 align="center">📈Github stats</h2>
@@ -83,9 +83,9 @@ const kalypso = {
 </p>
 
 
-![Kalypso's Stats](https://github-readme-stats.vercel.app/api?username=Kalypso89&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![Kalypso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalypso89&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalypso89&theme=vision_friendly_dark)
+![Kalypso's Stats](https://github-readme-stats.vercel.app/api?username=KalypsoDev&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Kalypso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalypsoDev&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalypsoDev&theme=vision_friendly_dark)
 
 <h2 align="center">🙏Acknowledgements</h2>
 <div align="center">
