@@ -49,22 +49,43 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,markdown,jest" alt="HTML, CSS, JavaScript, PHP, MySQL, Python, Markdown, Jest">
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,laravel,astro,nextjs" alt="SASS, Bootstrap, Tailwind, React, Laravel, Astro, Next.js">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,materialui" alt="HTML, CSS, JavaScript, SASS, Bootstrap, Tailwind, Material UI">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,cloudflare,vercel,discord" alt="Figma, Visual Studio Code, Git, Github, Cloudflare, Vercel, Discord">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,py,ai,jest,markdown" alt="MySQL, MongoDB, PHP, Python, AI, Jest, Markdown">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,laravel,astro,nextjs" alt="React, Laravel, Astro, Next.js">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm,vite" alt="Visual Studio Code, Git, Github, Node.js, NPM, Vite">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,codepen,postman,cloudflare,vercel" alt="Figma, CodePen, Postman, Cloudflare, Vercel">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=stackoverflow,discord,instagram,twitter" alt="StackOverflow, Discord, Instagram, Twitter">
+  </a>
+</p>
+
 <p align="center">
     <img src="./logoTrello.png" alt="Trello" height="48px">&nbsp  
+    <img src="./logoJIRA.png" alt="JIRA" height="48px">&nbsp  
     <img src="./logoZoom.png" alt="Zoom" height="48px">&nbsp
     <img src="./logoGoogle.png" alt="Google" height="48px">
 </p>
