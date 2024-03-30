@@ -54,7 +54,7 @@ const kalypso = {
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,laravel,astro" alt="SASS, Bootstrap, Tailwind, React, Laravel, Astro">
+    <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,laravel,astro,nextjs" alt="SASS, Bootstrap, Tailwind, React, Laravel, Astro, Next.js">
   </a>
 </p>
 
