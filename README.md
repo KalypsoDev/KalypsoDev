@@ -79,7 +79,7 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,discord,instagram,twitter" alt="StackOverflow, Discord, Instagram, Twitter">
+    <img src="https://skillicons.dev/icons?i=stackoverflow,discord,instagram,twitter,linkedin" alt="StackOverflow, Discord, Instagram, Twitter, LinkedIn">
   </a>
 </p>
 
