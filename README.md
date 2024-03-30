@@ -67,7 +67,7 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm,vite" alt="Visual Studio Code, Git, Github, Node.js, NPM, Vite">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,vite" alt="Visual Studio Code, Git, Github, Node.js, Vite">
   </a>
 </p>
 
