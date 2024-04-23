@@ -95,7 +95,7 @@ const kalypso = {
 <h2  align="center">📩Contact me</h2>
   <p align="center">
     <a href="mailto:antunezangela89@gmail.com"><img src="./logo_gmail.png" alt="Send me an email" height="60px"></a>
-    <a href="www.linkedin.com/in/angela-antunez-sanchez"><img src="./logo_linkedin.png" alt="My LinkedIn" height="60px"></a>
+    <a href="https://www.linkedin.com/in/angela-antunez-sanchez/"><img src="./logo_linkedin.png" alt="My LinkedIn" height="60px"></a>
   </p>
 
 <h2 align="center">📈Github stats</h2>
