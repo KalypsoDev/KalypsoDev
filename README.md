@@ -20,28 +20,37 @@ const kalypso = {
             "Let your emotions be your friends, not your enemies"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
-  previousStudies: {
+  previousAcademicBackground: {
                         degree: "Psychology",
                         mastersDegree: ["Teacher Training", "Socio-educational Intervention and Research"],
                         doctoralThesis: "Education and Psychology",
                         organization: "Universidad de Oviedo"
                       },
-  currentStudies: {
-                        name: "Full-Stack Developer Bootcamp",
-                        class: "FemCoders",
-                        organization: "Factoría F5",
-                        sponsor: "Google.org"
+  webDevelopmentStudies: {
+                        googleCertification: "Google IT Automation with Python",
+                        femCodersFactoriaF5Certification: "Full-Stack Developer Bootcamp",
                     },
-  workExperience: ["Teacher in various socio-educational fields",
-                  "Project manager at the AINDACE Foundation (brain damage)"],
+  workExperience: {
+                    variousSocioEducationalFields: "Work with different NGOs users, and primary and high school students",
+                    universidadDeOviedo: ["Field researcher",
+                                          "Professor",
+                                          "Science communicator",
+                                          "Trainer of primary school teachers",
+                                          "Inclusive programme designer",
+                                          "Intervention technician",
+                                          "Program evaluator"],
+                    aindaceFoundation: "Project manager of social programmes aimed at people with brain damage",
+                    cticTechnologyCentre: "Technician in Human Factor and Web Development"
+                   },
+  myGoal: "Developing applications that are useful, accessible, and inclusive in the fields of psychology and education,
+          considering UX design and human factor perspective",
   freeTime: {
                   languages: ["English", "French", "Portuguese"],
                   myDogs: ["Rocky", "Sira"],
                   hobbies: ["Singing", "Dancing", "Acting", "Cooking", "Travelling", "Working out"],
                   favouritePlaces: ["La Virgen del Mar", "Mont Saint-Michel", "Saint-Malo", "Monte Naranco"],
-                    },
-  myStrengths: ["Curiosity", "Passion", "Initiative", "Motivation", "Sympathy", "Teamwork"],
-  myGoal: "Developing applications that are useful, accessible, and inclusive in the fields of psychology and education"
+                  },
+  myStrengths: ["Curiosity", "Passion", "Initiative", "Motivation", "Sympathy", "Teamwork"]
 }
 ```
 
@@ -61,13 +70,13 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,astro,nextjs" alt="React, Laravel, Astro, Next.js">
+    <img src="https://skillicons.dev/icons?i=react,laravel,express,astro,nextjs" alt="React, Laravel, Express, Astro, Next.js">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,vite" alt="Visual Studio Code, Git, Github, Node.js, Vite">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,vite,docker" alt="Visual Studio Code, Git, Github, Node.js, Vite, Docker">
   </a>
 </p>
 
