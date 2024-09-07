@@ -64,7 +64,7 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,py,jest,markdown" alt="MySQL, MongoDB, PHP, Python, Jest, Markdown">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,py,jest,markdown,bash" alt="MySQL, MongoDB, PHP, Python, Jest, Markdown, Bash">
   </a>
 </p>
 
