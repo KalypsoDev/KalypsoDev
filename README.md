@@ -17,7 +17,8 @@ const kalypso = {
             "Just make it happen!",
             "Life-building",
             "Choose wisely your fights",
-            "Let your emotions be your friends, not your enemies"],
+            "Let your emotions be your friends, not your enemies",
+            "Try not to dwell on your failures. Just learn from them"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
   previousAcademicBackground: {
