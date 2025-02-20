@@ -18,7 +18,8 @@ const kalypso = {
             "Life-building",
             "Choose wisely your fights",
             "Let your emotions be your friends, not your enemies",
-            "Try not to dwell on your failures. Just learn from them"],
+            "Try not to dwell on your failures. Just learn from them",
+            "The best antidepressant? Loving yourself!"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
   previousAcademicBackground: {
@@ -30,6 +31,10 @@ const kalypso = {
   webDevelopmentStudies: {
                         googleCertification: "Google IT Automation with Python",
                         femCodersFactoriaF5Certification: "Full-Stack Developer Bootcamp",
+                        aspasiaFormacion: "Level 3 Professional Certificate (590 hours): Development of documents
+                                          and software components that make up computer applications in distributed
+                                          environments using web technologies, based on an already prepared technical
+                                          design, also carrying out their verification, documentation, and implementation."
                     },
   workExperience: {
                     variousSocioEducationalFields: "Work with different NGOs users, and primary and high school students",
@@ -41,7 +46,8 @@ const kalypso = {
                                           "Intervention technician",
                                           "Program evaluator"],
                     aindaceFoundation: "Project manager of social programmes aimed at people with brain damage",
-                    cticTechnologyCentre: "Technician in Human Factor and Web Development"
+                    cticTechnologyCentre: "Technician in Human Factor and Web Development",
+                    treeHub: "Full-stack developer (Gangenie Project)"
                    },
   myGoal: "Developing applications that are useful, accessible, and inclusive in the fields of psychology and education,
           considering UX design and human factor perspective",
