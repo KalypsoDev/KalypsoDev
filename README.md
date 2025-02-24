@@ -31,7 +31,7 @@ const kalypso = {
   webDevelopmentStudies: {
                         googleCertification: "Google IT Automation with Python",
                         femCodersFactoriaF5Certification: "Full-Stack Developer Bootcamp (850 hours)",
-                        aspasiaFormacion: "Level 3 Professional Certificate (590 hours): Development of Applications with Web Technologies."
+                        aspasiaTrainingCertification: "Level 3 Professional Certificate (590 hours): Development of Applications with Web Technologies."
                     },
   workExperience: {
                     variousSocioEducationalFields: "Work with different NGOs users, and primary and high school students",
