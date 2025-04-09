@@ -11,7 +11,7 @@
 
 ```javascript
 const kalypso = {
-  realName: "Ángela",
+  realName: "Ángela Antúnez",
   myMottos: ["Curiosity didn't kill the cat: it helped it explore, learn and grow",
             "Every day is an adventure",
             "Just make it happen!",
