@@ -74,7 +74,7 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,express,astro,nextjs" alt="React, Laravel, Express, Astro, Next.js">
+    <img src="https://skillicons.dev/icons?i=react,laravel,express,astro,nextjs,angular,symfony" alt="React, Laravel, Express, Astro, Next.js, Angular, Symfony">
   </a>
 </p>
 
