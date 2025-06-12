@@ -68,13 +68,13 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sequelize,mongodb,php,py,jest,markdown,bash" alt="MySQL, Sequelize, MongoDB, PHP, Python, Jest, Markdown, Bash">
+    <img src="https://skillicons.dev/icons?i=mysql,sequelize,postgresql,mongodb,php,py,jest,markdown,bash" alt="MySQL, Sequelize, PostgreSQL, MongoDB, PHP, Python, Jest, Markdown, Bash">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,express,astro,nextjs,angular,symfony" alt="React, Laravel, Express, Astro, Next.js, Angular, Symfony">
+    <img src="https://skillicons.dev/icons?i=react,laravel,express,astro,nextjs,angular,symfony,flask" alt="React, Laravel, Express, Astro, Next.js, Angular, Symfony, Flask">
   </a>
 </p>
 
