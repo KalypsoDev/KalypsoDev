@@ -19,7 +19,8 @@ const kalypso = {
             "Choose wisely your fights",
             "Let your emotions be your friends, not your enemies",
             "Try not to dwell on your failures. Just learn from them",
-            "The best antidepressant? Loving yourself!"],
+            "The best antidepressant? Loving yourself!",
+            "Don’t let fear take root, because love and success cannot bloom"],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
   previousAcademicBackground: {
