@@ -87,7 +87,7 @@ const kalypso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,figma,codepen,wordpress,postman,cloudflare,vercel" alt="Wordpress, Figma, CodePen, Postman, Cloudflare, Vercel">
+    <img src="https://skillicons.dev/icons?i=wordpress,figma,codepen,postman,cloudflare,vercel" alt="Wordpress, Figma, CodePen, Postman, Cloudflare, Vercel">
   </a>
 </p>
 
