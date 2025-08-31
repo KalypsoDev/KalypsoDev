@@ -55,7 +55,7 @@ const kalypso = {
                   hobbies: ["Singing", "Dancing", "Acting", "Cooking", "Travelling", "Working out"],
                   favouritePlaces: ["La Virgen del Mar", "Mont Saint-Michel", "Saint-Malo", "Monte Naranco"],
                   },
-  myStrengths: ["Curiosity", "Passion", "Initiative", "Motivation", "Sympathy", "Teamwork"]
+  myStrengths: ["Curiosity", "Passion", "Initiative", "Motivation", "Sympathy", "Teamwork", "Attention to detail"]
 }
 ```
 
@@ -89,6 +89,14 @@ const kalypso = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wordpress,figma,codepen,postman,cloudflare,vercel" alt="Wordpress, Figma, CodePen, Postman, Cloudflare, Vercel">
   </a>
+</p>
+
+<p align="center">
+    <img src="./bolt.jpg" alt="Bolt.new" height="48px">&nbsp  
+    <img src="./chatGPT.png" alt="ChatGPT" height="48px">&nbsp  
+    <img src="./cursor.jpg" alt="Cursor" height="48px">&nbsp
+    <img src="./windsurf.png" alt="Windsurf" height="48px">
+    <img src="./rasa_.png" alt="RASA" height="48px">
 </p>
 
 <p align="center">
