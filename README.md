@@ -10,9 +10,10 @@
 <h2  align="center">😺A little about me...</h2>
 
 ```javascript
-const kalypso = {
+const kalypsoDev = {
   realName: "Ángela Antúnez",
-  myMottos: ["Curiosity didn't kill the cat: it helped it explore, learn and grow",
+  myMottos: [
+            "Curiosity didn't kill the cat: it helped it explore, learn and grow",
             "Every day is an adventure",
             "Just make it happen!",
             "Let's play life-building",
@@ -20,42 +21,81 @@ const kalypso = {
             "Let your emotions be your friends, not your enemies",
             "Try not to dwell on your failures. Just learn from them",
             "The best antidepressant? Loving yourself!",
-            "Don’t let fear take root, because love and success cannot bloom"],
+            "Don’t let fear take root, because love and success cannot bloom"
+            ],
   wasBornIn: "Santander (Spain)",
   livingIn: "Oviedo (Spain)",
+  myGoal: "Developing applications that are useful, accessible, and inclusive, considering UX design and human factor perspective",
   previousAcademicBackground: {
-                        degree: "Psychology",
-                        mastersDegree: ["Teacher Training", "Socio-educational Intervention and Research"],
+                        bachelorsDegree: "Psychology",
+                        mastersDegree: [
+                                        "Teacher Training",
+                                        "Socio-educational Intervention and Research"
+                                        ],
                         doctoralThesis: "Education and Psychology",
                         organization: "Universidad de Oviedo"
                       },
   webDevelopmentStudies: {
-                        googleCertification: "Google IT Automation with Python",
                         femCodersFactoriaF5Certification: "Full-Stack Developer Bootcamp (850 hours)",
-                        aspasiaTrainingCertification: "Level 3 Professional Certificate (590 hours): Development of Applications with Web Technologies."
+                        aspasiaTrainingCertification: "Level 3 Professional Certificate (590 hours): Development of Applications with Web Technologies",
+                        vmlTheCocktail: "Internal Master’s Programme in Marketing Automation (MIND)"
                     },
   workExperience: {
-                    variousSocioEducationalFields: "Work with different NGOs users, and primary and high school students",
-                    universidadDeOviedo: ["Field researcher",
-                                          "Professor",
-                                          "Science communicator",
-                                          "Trainer of primary school teachers",
-                                          "Inclusive programme designer",
-                                          "Intervention technician",
-                                          "Program evaluator"],
-                    aindaceFoundation: "Project manager of social programmes aimed at people with brain damage",
-                    cticTechnologyCentre: "Technician in Human Factor and Web Development",
-                    treeHub: "Full-stack developer (Gangenie Project)"
+                    variousSocioEducationalFields: "Worked with different NGOs users, and primary and high school students",
+                    universityOfOviedo: [
+                                          "Conducted research within the School Learning, Difficulties and Academic Performance (ADIR) Research Group, focusing on school dropout among Roma students in Asturias",
+                                          "Designed and implemented the ESPIRALES educational intervention programme and trained participating tutors",
+                                          "Taught university courses in Psychology, Education and Pedagogy",
+                                          "Presented research at academic conferences and contributed to scientific publications",
+                                          ],
+                    aindaceFoundation: [
+                                        "Managed social projects, adapted leisure activities for service users with disabilities and their families",
+                                        "Organised charity events",
+                                        "Coordinated the volunteer programme and managed the organisation’s social media presence",
+                                        "Led communication and marketing activities to raise awareness of brain injury across social media, television, press and radio, promoting the foundation’s work",
+                                        "Identified and managed funding opportunities, grant applications and reporting, donations and sponsorships, liaising with partner organisations, professionals, service users and families"
+                                        ],
+                    cticTechnologyCentre: {
+                                          "Technician in DevOps Unit": [
+                                                                    "contributed to the full-stack development of the cardiovascular health web application, including risk calculators and a chatbot, based on Figma designs",
+                                                                    "implemented React components, developed Express endpoints, and connected the application to a MySQL database",
+                                                                    "performed manual QA testing using Postman and DevTools, including happy-path validation. Reviewed performance, responsiveness, SEO and accessibility using PageSpeed Insights and Lighthouse"
+                                                                  ],
+                                          "Technician in Human Factor Unit": [
+                                                                        "contributed to the technical and scientific proposals for three projects focused on cardiovascular health promotion, smart mobility, and the integration of a proactive agent into a data-driven platform to support employee wellbeing",
+                                                                        "also searched, selected, cleaned and processed data for ingestion into an LLM as part of the cardiovascular health project"
+                                                                        ]
+                                          },
+                    treeHub: "Full-stack developer (Gangenie Project)",
+                    ecaTeatro: "Frontend developer",
+                    vmlTheCocktail: "Salesforce Marketing Cloud Developer"
                    },
-  myGoal: "Developing applications that are useful, accessible, and inclusive in the fields of psychology and education,
-          considering UX design and human factor perspective",
-  freeTime: {
-                  languages: ["English", "French", "Portuguese"],
-                  myDogs: ["Rocky", "Sira"],
-                  hobbies: ["Singing", "Dancing", "Acting", "Cooking", "Travelling", "Working out"],
-                  favouritePlaces: ["La Virgen del Mar", "Mont Saint-Michel", "Saint-Malo", "Monte Naranco"],
+  certifications: {
+                    Coursera: "Google IT Automation with Python",
+                    Salesforce: [
+                                  "Salesforce Certified Marketing Cloud Engagement Specialist",
+                                  "Salesforce Certified Marketing Cloud Engagement Foundations"
+                                ],
+                    Braze: [
+                            "Certified Marketing Specialist",
+                            "Braze Certified Practitioner"
+                            ]
                   },
-  myStrengths: ["Curiosity", "Passion", "Initiative", "Motivation", "Sympathy", "Teamwork", "Attention to detail"]
+  freeTime: {
+              languages: ["English", "French", "Portuguese"],
+              myDogs: ["Rocky", "Sira"],
+              hobbies: ["Singing", "Dancing", "Acting", "Cooking", "Travelling", "Working out"],
+              favouritePlaces: ["La Virgen del Mar", "Mont Saint-Michel", "Saint-Malo", "Monte Naranco"],
+                  },
+  myStrengths: [
+                "Curiosity",
+                "Passion",
+                "Initiative",
+                "Motivation",
+                "Sympathy",
+                "Teamwork",
+                "Attention to detail"
+                ]
 }
 ```
 
